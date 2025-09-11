@@ -4,5 +4,7 @@ public class test1 {
 
         System.out.println("develop2 브랜치에서 수정");
         System.out.println("git stash일 경우 test");
+
+        System.out.println("머지 병합1");
     }
 }
